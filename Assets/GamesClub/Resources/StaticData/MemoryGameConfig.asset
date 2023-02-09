@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca5fd36e0e94ac89815d67d86836db8, type: 3}
+  m_Name: MemoryGameConfig
+  m_EditorClassIdentifier: 
+  CardBack: {fileID: 21300000, guid: 89fc181c77ef84a8ab286476a4702421, type: 3}
+  Pairs:
+  - CardFront: {fileID: 21300000, guid: 62a8806c844414c2db6908277b632985, type: 3}
+    CardType: 0
+  - CardFront: {fileID: 21300000, guid: acb75132c43b244708011777cef82d16, type: 3}
+    CardType: 1
+  - CardFront: {fileID: 21300000, guid: c7baaf8a1487544519b76937fd3e68b7, type: 3}
+    CardType: 2
+  - CardFront: {fileID: 21300000, guid: a9ec0f0e903da4daca8c41edfe0056fb, type: 3}
+    CardType: 3
+  - CardFront: {fileID: 21300000, guid: 4ae78b4bf9bf644ea8db6049d3bd43f7, type: 3}
+    CardType: 4
+  - CardFront: {fileID: 21300000, guid: 46e1b95e860ec4fb99315297521e66cc, type: 3}
+    CardType: 5
+  CardsInRow: 3
+  LengthBtwCardsHorizontal: 1.35
+  LengthBtwCardsVertical: 1.35
+  ScoreArray:
+  - 500
+  - 250
+  - 100
+  - 50
+  RoundTime: 60

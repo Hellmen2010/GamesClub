@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c690a06b0a1472bb2c251f32893168a, type: 3}
+  m_Name: GameVariantsData
+  m_EditorClassIdentifier: 
+  GameViewsData:
+  - GameSpriteIphone: {fileID: 21300000, guid: fe81dd08ee4384b10b4c0c339675c398, type: 3}
+    GameSpriteIpad: {fileID: 21300000, guid: e8bc72f1ffaa64304a02ae32b4be0b97, type: 3}
+    GameType: 0
+    GameStateName: MemoryGameCreationState
+  - GameSpriteIphone: {fileID: 21300000, guid: 816f282b552194867bbaebbaca1453ed, type: 3}
+    GameSpriteIpad: {fileID: 21300000, guid: 88f1dd74a20174ed5ba889f46b60db87, type: 3}
+    GameType: 1
+    GameStateName: ClawCraneGameCreationState
+  - GameSpriteIphone: {fileID: 21300000, guid: 63b128a0571b140a5aad440c8b3c48a9, type: 3}
+    GameSpriteIpad: {fileID: 21300000, guid: 6909f769ca69346718e96bd761f04c4a, type: 3}
+    GameType: 2
+    GameStateName: MemoryGameCreationState

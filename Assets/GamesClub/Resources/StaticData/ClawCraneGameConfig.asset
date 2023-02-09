@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e0d11e0e7e04a4bb63adb6dd5b2a27b, type: 3}
+  m_Name: ClawCraneGameConfig
+  m_EditorClassIdentifier: 
+  MoveSpeed: 1
+  Wins:
+  - Ball: {fileID: 21300000, guid: af5ac8d5f1d5e4d53b931ae4b55e3674, type: 3}
+    Glow: {fileID: 21300000, guid: a688ea3c3ef77449a9b1f32066c4930b, type: 3}
+    Prize: {fileID: 21300000, guid: 8ebd00d1cc3074763ba59741f35fc2df, type: 3}
+    Score: 50
+  - Ball: {fileID: 21300000, guid: 72d8bbe58b533451ca7677d0c3d27c54, type: 3}
+    Glow: {fileID: 21300000, guid: ca6a34d88ef7e436391c4c6038ec2545, type: 3}
+    Prize: {fileID: 21300000, guid: b679cf93162c34effad47586a46d2f14, type: 3}
+    Score: 100
+  - Ball: {fileID: 21300000, guid: 08c8a751f91bf47c69522e8cd57200e9, type: 3}
+    Glow: {fileID: 21300000, guid: 77caf0776d6d44694a901cb39bfe81d0, type: 3}
+    Prize: {fileID: 21300000, guid: 65f7d29bcb53444ee94da92b28781afc, type: 3}
+    Score: 150
+  - Ball: {fileID: 21300000, guid: 6e92f81a1c1a24a7194805e6b9ea9da9, type: 3}
+    Glow: {fileID: 21300000, guid: a0d7b955a0f134ef882c61f84a4b953e, type: 3}
+    Prize: {fileID: 21300000, guid: 67269e512db0c40cab80cb39ab8ee71b, type: 3}
+    Score: 200
+  - Ball: {fileID: 21300000, guid: b70426149749748d19c505c39fe16327, type: 3}
+    Glow: {fileID: 21300000, guid: 1f535a20eb4b04bc48ef92a4758f6a7a, type: 3}
+    Prize: {fileID: 21300000, guid: e118ddbb232f7479ab071ed99ed7b509, type: 3}
+    Score: 50
+  - Ball: {fileID: 21300000, guid: 878b126b1c9ca4ea9ae04ac4fb3a1799, type: 3}
+    Glow: {fileID: 21300000, guid: 9f4fb6d9f6dff49d0b018cce4dff6f89, type: 3}
+    Prize: {fileID: 21300000, guid: c1f812ce79f35471cba1d1868d1c29be, type: 3}
+    Score: 100
+  - Ball: {fileID: 21300000, guid: 90ac813eeecbe4968bb7ad6242fce386, type: 3}
+    Glow: {fileID: 21300000, guid: 4176f53e0d4ae49708650528569098bd, type: 3}
+    Prize: {fileID: 21300000, guid: ed6f19804ddce4d57a2c6d6ca2b72bb1, type: 3}
+    Score: 150
+  - Ball: {fileID: 21300000, guid: 64e8800b2b3914c199e6fd54135f3fc2, type: 3}
+    Glow: {fileID: 21300000, guid: 944090003c6de42f3a8f1351e306648d, type: 3}
+    Prize: {fileID: 21300000, guid: 2a67217f6bb6844d9ba74ec54bb9dd80, type: 3}
+    Score: 200
+  - Ball: {fileID: 21300000, guid: f5211a5b92c5849bd8ece5f0ebc3a9b9, type: 3}
+    Glow: {fileID: 21300000, guid: bde5c52da19db4620838ae996d32cd12, type: 3}
+    Prize: {fileID: 21300000, guid: f921326f195f04e76be36a8ae30893a6, type: 3}
+    Score: 100
+  - Ball: {fileID: 21300000, guid: ede6b741676f24931bc4c4fdc3b66f23, type: 3}
+    Glow: {fileID: 21300000, guid: 942cfa7687c104ec6aec08c1028306ac, type: 3}
+    Prize: {fileID: 21300000, guid: 47bf13b640ccc428fbf3d9eeca5a3bb1, type: 3}
+    Score: 150
+  LeftBoundary: -0.1
+  RightBoundary: 1.9
+  YBallsPosition: -0.5
+  AnimationTime: 2

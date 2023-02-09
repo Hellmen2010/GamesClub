@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f8eae1dace4434aa94eb98cf6fef8d, type: 3}
+  m_Name: Prefabs Data
+  m_EditorClassIdentifier: 
+  RootCanvasPrefab: {fileID: 8927380304441350616, guid: 17f494cd2bfab493fa28ae48dd62b1a8, type: 3}
+  SettingsPrefab: {fileID: 7259608848415153135, guid: 8e930114528ba492c9a0f5fd76975fe9, type: 3}
+  ScoreViewPrefab: {fileID: 7614871451686753893, guid: 0ef29f613002d4b30aba34cf745b8206, type: 3}
+  BackButtonPrefab: {fileID: 4653194968407499821, guid: be078163ddb064b189e790cfa93d6291, type: 3}
+  SettingsButtonPrefab: {fileID: 2325922209075878354, guid: acb82409848e648728cbdfdf53658708, type: 3}
+  MainMenuPrefab: {fileID: 7074285247971971572, guid: fae33a3f8e1834364a2022425391484f, type: 3}
+  PlayButtonPrefab: {fileID: 9041298285304725984, guid: 77789dfd89e2246efb451aeeebb68226, type: 3}
+  GamesHolderPrefab: {fileID: 8006889100229389453, guid: 998e07fe69b184c81b0e12386c83e158, type: 3}
+  GameVariant: {fileID: 7888514629717796631, guid: 257a6fe0529924366a51c7f2c6dc8b6b, type: 3}
+  Card: {fileID: 7486198205489474530, guid: daf92fe19ac5548e2b2fa9ba22e29ee9, type: 3}
+  CardHolder: {fileID: 1323487934760601382, guid: c017bdc34445842a49b54eb67bf83e1a, type: 3}
+  TimerPrefab: {fileID: 5124747082761947592, guid: a74d01df507c041fa9460521e0bd77fe, type: 3}
+  ResultPopUpPrefab: {fileID: 2370059415085491064, guid: 46dcc330710b44d249b40568917f2634, type: 3}
+  clawCraneControllPrefab: {fileID: 679878866940807917, guid: 1a4597c012f788049b1b1a11db93f1e9, type: 3}
+  ClawCranePrefab: {fileID: 6640097546925414730, guid: e66360044b2e94159ab2d02b9fbf0198, type: 3}
+  clawCraneClawCraneWinPopUpPrefab: {fileID: 429900316267421404, guid: b72cf599a063b1e4a9bbe50a1e491dff, type: 3}
+  JoystickPrefab: {fileID: 3599984832008285158, guid: 2ae776a90d740488a9d85e9e025979c6, type: 3}
